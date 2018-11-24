@@ -1,0 +1,70 @@
+﻿  AI.cpp
+c:\users\dominik\desktop\git\eaglegame\eagle\eagle\ai.cpp(32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dominik\desktop\git\eaglegame\eagle\eagle\ai.cpp(32): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+c:\users\dominik\desktop\git\eaglegame\eagle\eagle\ai.cpp(33): warning C4244: 'argument': conversion from 'const double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\dominik\desktop\git\eaglegame\eagle\eagle\ai.cpp(44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dominik\desktop\git\eaglegame\eagle\eagle\ai.cpp(44): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+c:\users\dominik\desktop\git\eaglegame\eagle\eagle\ai.cpp(45): warning C4244: 'argument': conversion from 'const double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Animation.cpp
+c:\users\dominik\desktop\git\eaglegame\eagle\eagle\animation.cpp(9): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\dominik\desktop\git\eaglegame\eagle\eagle\animation.cpp(10): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Collision.cpp
+c:\users\dominik\desktop\git\eaglegame\eagle\eagle\collision.cpp(52): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\dominik\desktop\git\eaglegame\eagle\eagle\collision.cpp(52): warning C4244: 'initializing': conversion from 'const T' to 'const int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Counter.cpp
+  Eagle.cpp
+  Entity.cpp
+  EntryMenu.cpp
+  Error.cpp
+  EventHandler.cpp
+  FinishLine.cpp
+  Game.cpp
+  main.cpp
+  Menu.cpp
+c:\users\dominik\desktop\git\eaglegame\eagle\eagle\menu.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\dominik\desktop\git\eaglegame\eagle\eagle\menu.cpp(118): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dominik\desktop\git\eaglegame\eagle\eagle\menu.cpp(134): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Missile.cpp
+  Raptor.cpp
+  RaptorGenerator.cpp
+c:\users\dominik\desktop\git\eaglegame\eagle\eagle\raptorgenerator.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\dominik\desktop\git\eaglegame\eagle\eagle\raptorgenerator.cpp(20): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\dominik\desktop\git\eaglegame\eagle\eagle\raptorgenerator.cpp(21): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\dominik\desktop\git\eaglegame\eagle\eagle\raptorgenerator.cpp(22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dominik\desktop\git\eaglegame\eagle\eagle\raptorgenerator.cpp(22): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\dominik\desktop\git\eaglegame\eagle\eagle\raptorgenerator.cpp(23): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Results.cpp
+c:\users\dominik\desktop\git\eaglegame\eagle\eagle\results.cpp(24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  TextObject.cpp
+  TextureContainer.cpp
+  World.cpp
+  Generating Code...
+  Eagle.vcxproj -> C:\Users\Dominik\Desktop\GIT\EagleGame\Eagle\x64\Debug\Eagle.exe
